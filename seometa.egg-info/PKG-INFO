@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: seometa
-Version: 0.0.1
+Version: 0.0.1.6
 Summary: Get SEO Meta-data from Websites
 Author: Aymane Elhattab
 Author-email: <aymane.elhattab.master@gmail.com>
@@ -15,14 +15,13 @@ Classifier: Operating System :: MacOS :: MacOS X
 Classifier: Operating System :: Microsoft :: Windows
 Description-Content-Type: text/markdown
 
-
 ## SEO Meta-Data
 
 This a python module that helps you get SEO data on any website, you have to import it in your script and your good to go
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pypi.org/project/seometa) to install foobar.
 
 ```bash
 pip install seometa
@@ -32,8 +31,7 @@ pip install seometa
 
 ```python
 import threading
-
-from seo import SEO, read_txt
+from seometa import SEO, read_txt
 
 
 def get_sublists(original_list, number_of_sub_list_wanted): # sublisting to use Threads

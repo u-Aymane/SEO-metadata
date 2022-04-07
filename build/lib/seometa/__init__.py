@@ -1,1 +1,1 @@
-from seo import SEO
+from seometa.seo import SEO

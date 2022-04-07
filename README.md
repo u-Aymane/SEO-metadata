@@ -14,8 +14,7 @@ pip install seometa
 
 ```python
 import threading
-
-from seo import SEO, read_txt
+from seometa import SEO, read_txt
 
 
 def get_sublists(original_list, number_of_sub_list_wanted): # sublisting to use Threads

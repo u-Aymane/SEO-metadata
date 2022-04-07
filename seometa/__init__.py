@@ -1,1 +1,0 @@
-from seo import SEO

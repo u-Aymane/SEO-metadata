@@ -4,7 +4,7 @@ This a python module that helps you get SEO data on any website, you have to imp
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pypi.org/project/seometa) to install foobar.
 
 ```bash
 pip install seometa

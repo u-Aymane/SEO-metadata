@@ -6,7 +6,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with open('README.md', 'r', encoding="utf-8") as fh:
     long_description = fh.read()
 
-VERSION = '0.0.1.6'
+VERSION = '0.0.1.7'
 DESCRIPTION = 'Get SEO Meta-data from Websites'
 # LONG_DESCRIPTION = 'A package that allows get metadata from websites allowing to perfect your targeting.'
 
